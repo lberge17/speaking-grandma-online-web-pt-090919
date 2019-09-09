@@ -5,6 +5,7 @@ def speak_to_grandma(phrase)
     puts "NO, NOT SINCE 1938!"
   else
     puts "HUH?! SPEAKUP, SONNY!"
+  end
 end
 
 # Whatever you say to grandma, she should respond with
